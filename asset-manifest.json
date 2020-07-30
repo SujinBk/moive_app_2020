@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SujinBk/moive_app_2020/static/css/main.1b74ed00.chunk.css",
+    "main.js": "/SujinBk/moive_app_2020/static/js/main.93ad1e5b.chunk.js",
+    "main.js.map": "/SujinBk/moive_app_2020/static/js/main.93ad1e5b.chunk.js.map",
+    "runtime-main.js": "/SujinBk/moive_app_2020/static/js/runtime-main.20016efb.js",
+    "runtime-main.js.map": "/SujinBk/moive_app_2020/static/js/runtime-main.20016efb.js.map",
+    "static/js/2.e2494b61.chunk.js": "/SujinBk/moive_app_2020/static/js/2.e2494b61.chunk.js",
+    "static/js/2.e2494b61.chunk.js.map": "/SujinBk/moive_app_2020/static/js/2.e2494b61.chunk.js.map",
+    "index.html": "/SujinBk/moive_app_2020/index.html",
+    "precache-manifest.3e8fca52ab6d7f237b9ff208e97f9645.js": "/SujinBk/moive_app_2020/precache-manifest.3e8fca52ab6d7f237b9ff208e97f9645.js",
+    "service-worker.js": "/SujinBk/moive_app_2020/service-worker.js",
+    "static/css/main.1b74ed00.chunk.css.map": "/SujinBk/moive_app_2020/static/css/main.1b74ed00.chunk.css.map",
+    "static/js/2.e2494b61.chunk.js.LICENSE.txt": "/SujinBk/moive_app_2020/static/js/2.e2494b61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20016efb.js",
+    "static/js/2.e2494b61.chunk.js",
+    "static/css/main.1b74ed00.chunk.css",
+    "static/js/main.93ad1e5b.chunk.js"
+  ]
+}
